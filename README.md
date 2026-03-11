@@ -1,2 +1,2 @@
 # Notes_for_Everything
-mathematics notes
+mathematics and neuroscience notes
